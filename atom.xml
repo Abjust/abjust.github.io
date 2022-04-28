@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.abjust.xyz</id>
     <title>Windows 2000</title>
-    <updated>2022-04-28T12:04:21.558Z</updated>
+    <updated>2022-04-28T13:07:06.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.abjust.xyz"/>
     <link rel="self" href="https://www.abjust.xyz/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://www.abjust.xyz/images/avatar.png</logo>
     <icon>https://www.abjust.xyz/favicon.ico</icon>
     <rights>All rights reserved 2022, Windows 2000</rights>
+    <entry>
+        <title type="html"><![CDATA[论我是怎么度过这两年的]]></title>
+        <id>https://www.abjust.xyz/post/liang-nian-yi-lai-de-wo-shi-zen-yang-de/</id>
+        <link href="https://www.abjust.xyz/post/liang-nian-yi-lai-de-wo-shi-zen-yang-de/">
+        </link>
+        <updated>2022-04-28T12:07:00.000Z</updated>
+        <content type="html"><![CDATA[<p>bgm：哪里都是你<br>
+<audio controls="" preload="" name="media"><source src="https://dl.stream.qqmusic.qq.com/C400003bFUaM0zmS7U.m4a?guid=3128310380&amp;vkey=E939FA1770FF7CAD8628D8A496A32D11FA051E515FB1EAEFE12BBF05F64433259E930A36BB4414BF8B1B47926BD6BE16771DCA47AF40AE2A&amp;uin=&amp;fromtag=120002" type="audio/mp4"></audio></p>
+<h2 id="一-新冠疫情">一、新冠疫情</h2>
+<p>2020年，正是疫情最严重的一年，包括我在内的大多数人都对这次未知而又大规模的事件感到恐惧和迷茫。在疫情期间，我总是会因为对此感到恐惧而不想出门或者跟人接触。我因为从小的疑神疑鬼的性格，总会无缘无故认为自己被感染了，而且将会是重症患者，有时候即使是一点小感冒都会被我这种错觉所影响被认为是感染了新冠病毒。那时候我还在温哥华，因为当时温哥华疫情情况并不乐观，但我爸妈要求我出去散步，尽管我那边附近住的人并不多，但出于一种担心，我在出去了以后都表现出一种不情愿。但正是因为这种不情愿，我的电子设备，手机、平板和笔记本，都被我爸妈收了一个星期。在这一个星期里，我只能晚上和我爸妈一块看电视。那时候家庭关系可以说特别紧张，我甚至商量过怎么把电子设备抢回来然后离家出走，但是因为那时候恰巧没多少钱，后来就只能以失败告终。在这段日子里，我还出现了幻听，有时候会听到自己打游戏时的声音，还有的时候会听见我在电脑上听过的歌，我就连做梦都是关于这种类型的事情。一个星期之后，我终于如愿以偿拿回了我的电子设备。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[致某乐子人]]></title>
         <id>https://www.abjust.xyz/post/zhi-mou-le-zi-ren/</id>
